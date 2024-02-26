@@ -4,12 +4,12 @@
       "id": 1,
       "title": "Shape of You",
       "type": "Hollywood",
-      "audio_url": "https://example.com/shape_of_you.mp3",
-      "cover_img": "https://example.com/shape_of_you_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/shape_of_you.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/shape_of_you_cover.jpg",
       "artists": [
         {
           "artist_name": "Ed Sheeran",
-          "artist_img": "https://example.com/ed_sheeran.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/ed_sheeran.jpg"
         }
       ]
     },
@@ -17,12 +17,12 @@
       "id": 2,
       "title": "Tum Hi Ho",
       "type": "Bollywood",
-      "audio_url": "https://example.com/tum_hi_ho.mp3",
-      "cover_img": "https://example.com/tum_hi_ho_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/tum_hi_ho.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/tum_hi_ho_cover.jpg",
       "artists": [
         {
           "artist_name": "Arijit Singh",
-          "artist_img": "https://example.com/arijit_singh.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/arijit_singh.jpg"
         }
       ]
     },
@@ -30,12 +30,12 @@
       "id": 3,
       "title": "Dynamite",
       "type": "K-Pop",
-      "audio_url": "https://example.com/dynamite.mp3",
-      "cover_img": "https://example.com/dynamite_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/dynamite.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/dynamite_cover.jpg",
       "artists": [
         {
           "artist_name": "BTS",
-          "artist_img": "https://example.com/bts.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/bts.jpg"
         }
       ]
     },
@@ -43,16 +43,12 @@
       "id": 4,
       "title": "Uptown Funk",
       "type": "Hollywood",
-      "audio_url": "https://example.com/uptown_funk.mp3",
-      "cover_img": "https://example.com/uptown_funk_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/uptown_funk.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/uptown_funk_cover.jpg",
       "artists": [
         {
           "artist_name": "Mark Ronson",
-          "artist_img": "https://example.com/mark_ronson.jpg"
-        },
-        {
-          "artist_name": "Bruno Mars",
-          "artist_img": "https://example.com/bruno_mars.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/mark_ronson.jpg"
         }
       ]
     },
@@ -60,16 +56,12 @@
       "id": 5,
       "title": "Kabira",
       "type": "Bollywood",
-      "audio_url": "https://example.com/kabira.mp3",
-      "cover_img": "https://example.com/kabira_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/kabira.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/kabira_cover.jpg",
       "artists": [
         {
-          "artist_name": "Tochi Raina",
-          "artist_img": "https://example.com/tochi_raina.jpg"
-        },
-        {
           "artist_name": "Rekha Bhardwaj",
-          "artist_img": "https://example.com/rekha_bhardwaj.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/rekha_bhardwaj.jpg"
         }
       ]
     },
@@ -77,59 +69,51 @@
       "id": 6,
       "title": "Dope",
       "type": "K-Pop",
-      "audio_url": "https://example.com/dope.mp3",
-      "cover_img": "https://example.com/dope_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/dope.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/dope_cover.jpg",
       "artists": [
         {
           "artist_name": "BTS",
-          "artist_img": "https://example.com/bts.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/bts.jpg"
         }
       ]
     },
     {
       "id": 7,
-      "title": "Uptown Funk",
-      "type": "Hollywood",
-      "audio_url": "https://example.com/uptown_funk.mp3",
-      "cover_img": "https://example.com/uptown_funk_cover.jpg",
+      "title": "O Maahi",
+      "type": "Bollywood",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/O_Maahi.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/O_Maahi_cover.jpg",
       "artists": [
         {
-          "artist_name": "Mark Ronson",
-          "artist_img": "https://example.com/mark_ronson.jpg"
-        },
-        {
-          "artist_name": "Bruno Mars",
-          "artist_img": "https://example.com/bruno_mars.jpg"
+          "artist_name": "Arijit Singh",
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/arijit_singh.jpg"
         }
       ]
     },
     {
       "id": 8,
-      "title": "Kabira",
+      "title": "Heeriye",
       "type": "Bollywood",
-      "audio_url": "https://example.com/kabira.mp3",
-      "cover_img": "https://example.com/kabira_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/Heeriye.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/Heeriye_cover.jpg",
       "artists": [
         {
-          "artist_name": "Tochi Raina",
-          "artist_img": "https://example.com/tochi_raina.jpg"
-        },
-        {
-          "artist_name": "Rekha Bhardwaj",
-          "artist_img": "https://example.com/rekha_bhardwaj.jpg"
+          "artist_name": "Arijit Singh",
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/arijit_singh.jpg"
         }
       ]
     },
     {
       "id": 9,
-      "title": "Dope",
+      "title": "Butter",
       "type": "K-Pop",
-      "audio_url": "https://example.com/dope.mp3",
-      "cover_img": "https://example.com/dope_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/butter.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/butter_cover.jpg",
       "artists": [
         {
           "artist_name": "BTS",
-          "artist_img": "https://example.com/bts.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/bts.jpg"
         }
       ]
     },
@@ -137,12 +121,12 @@
       "id": 10,
       "title": "Stairway to Heaven",
       "type": "Hollywood",
-      "audio_url": "https://example.com/stairway_to_heaven.mp3",
-      "cover_img": "https://example.com/stairway_to_heaven_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/stairway_to_heaven.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/stairway_to_heaven_cover.jpg",
       "artists": [
         {
           "artist_name": "Led Zeppelin",
-          "artist_img": "https://example.com/led_zeppelin.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/led_zeppelin.jpg"
         }
       ]
     },
@@ -150,12 +134,12 @@
       "id": 11,
       "title": "Bohemian Rhapsody",
       "type": "Hollywood",
-      "audio_url": "https://example.com/bohemian_rhapsody.mp3",
-      "cover_img": "https://example.com/bohemian_rhapsody_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/bohemian_rhapsody.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/bohemian_rhapsody_cover.jpg",
       "artists": [
         {
           "artist_name": "Queen",
-          "artist_img": "https://example.com/queen.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/queen.jpg"
         }
       ]
     },
@@ -163,16 +147,12 @@
       "id": 12,
       "title": "Tera Ban Jaunga",
       "type": "Bollywood",
-      "audio_url": "https://example.com/tera_ban_jaunga.mp3",
-      "cover_img": "https://example.com/tera_ban_jaunga_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/tera_ban_jaunga.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/tera_ban_jaunga_cover.jpg",
       "artists": [
         {
-          "artist_name": "Akhil Sachdeva",
-          "artist_img": "https://example.com/akhil_sachdeva.jpg"
-        },
-        {
           "artist_name": "Tulsi Kumar",
-          "artist_img": "https://example.com/tulsi_kumar.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/tulsi_kumar.jpg"
         }
       ]
     },
@@ -180,12 +160,12 @@
       "id": 13,
       "title": "MIC Drop",
       "type": "K-Pop",
-      "audio_url": "https://example.com/mic_drop.mp3",
-      "cover_img": "https://example.com/mic_drop_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/mic_drop.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/mic_drop_cover.jpg",
       "artists": [
         {
           "artist_name": "BTS",
-          "artist_img": "https://example.com/bts.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/bts.jpg"
         }
       ]
     },
@@ -193,12 +173,12 @@
       "id": 14,
       "title": "Smooth Criminal",
       "type": "Hollywood",
-      "audio_url": "https://example.com/smooth_criminal.mp3",
-      "cover_img": "https://example.com/smooth_criminal_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/smooth_criminal.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/smooth_criminal_cover.jpg",
       "artists": [
         {
           "artist_name": "Michael Jackson",
-          "artist_img": "https://example.com/michael_jackson.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/michael_jackson.jpg"
         }
       ]
     },
@@ -206,16 +186,12 @@
       "id": 15,
       "title": "Tere Bina",
       "type": "Bollywood",
-      "audio_url": "https://example.com/tere_bina.mp3",
-      "cover_img": "https://example.com/tere_bina_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/tere_bina.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/tere_bina_cover.jpg",
       "artists": [
         {
           "artist_name": "A.R. Rahman",
-          "artist_img": "https://example.com/ar_rahman.jpg"
-        },
-        {
-          "artist_name": "Chinmayi",
-          "artist_img": "https://example.com/chinmayi.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/ar_rahman.jpg"
         }
       ]
     },
@@ -223,12 +199,12 @@
       "id": 16,
       "title": "Dionysus",
       "type": "K-Pop",
-      "audio_url": "https://example.com/dionysus.mp3",
-      "cover_img": "https://example.com/dionysus_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/dionysus.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/dionysus_cover.jpg",
       "artists": [
         {
           "artist_name": "BTS",
-          "artist_img": "https://example.com/bts.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/bts.jpg"
         }
       ]
     },
@@ -236,12 +212,12 @@
       "id": 17,
       "title": "Spring Day",
       "type": "K-Pop",
-      "audio_url": "https://example.com/spring_day.mp3",
-      "cover_img": "https://example.com/spring_day_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/spring_day.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/spring_day_cover.jpg",
       "artists": [
         {
           "artist_name": "BTS",
-          "artist_img": "https://example.com/bts.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/bts.jpg"
         }
       ]
     },
@@ -249,16 +225,12 @@
       "id": 18,
       "title": "Kal Ho Naa Ho",
       "type": "Bollywood",
-      "audio_url": "https://example.com/kal_ho_naa_ho.mp3",
-      "cover_img": "https://example.com/kal_ho_naa_ho_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/kal_ho_naa_ho.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/kal_ho_naa_ho_cover.jpg",
       "artists": [
         {
           "artist_name": "Sonu Nigam",
-          "artist_img": "https://example.com/sonu_nigam.jpg"
-        },
-        {
-          "artist_name": "Alka Yagnik",
-          "artist_img": "https://example.com/alka_yagnik.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/sonu_nigam.jpg"
         }
       ]
     },
@@ -266,12 +238,12 @@
       "id": 19,
       "title": "Boy With Luv",
       "type": "K-Pop",
-      "audio_url": "https://example.com/boy_with_luv.mp3",
-      "cover_img": "https://example.com/boy_with_luv_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/boy_with_luv.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/boy_with_luv_cover.jpg",
       "artists": [
         {
           "artist_name": "BTS",
-          "artist_img": "https://example.com/bts.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/bts.jpg"
         }
       ]
     },
@@ -279,12 +251,12 @@
       "id": 20,
       "title": "Boogie Wonderland",
       "type": "Hollywood",
-      "audio_url": "https://example.com/boogie_wonderland.mp3",
-      "cover_img": "https://example.com/boogie_wonderland_cover.jpg",
+      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/boogie_wonderland.mp3",
+      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/boogie_wonderland_cover.jpg",
       "artists": [
         {
           "artist_name": "Earth, Wind & Fire",
-          "artist_img": "https://example.com/earth_wind_fire.jpg"
+          "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/earth_wind_fire.jpg"
         }
       ]
     }
