@@ -293,32 +293,32 @@
     {
       "p_id": 1,
       "p_title": "Bollywood",
-      "p_cover": "./album-img/bollywood.jpg"
+      "p_cover": "https://riyafadadu04.github.io/musicApi/album-img/bollywood.jpg"
     },
     {
       "p_id": 2,
       "p_title": "Hollywood",
-      "p_cover": "./album-img/hollywood.jpg"
+      "p_cover": "https://riyafadadu04.github.io/musicApi/album-img/hollywood.jpg"
     },
     {
       "p_id": 3,
       "p_title": "K-Pop",
-      "p_cover": "./album-img/k-pop.jpg"
+      "p_cover": "https://riyafadadu04.github.io/musicApi/album-img/k-pop.jpg"
     },
     {
       "p_id": 4,
       "p_title": "90's",
-      "p_cover": "./album-img/90s.jpg"
+      "p_cover": "https://riyafadadu04.github.io/musicApi/album-img/90s.jpg"
     },
     {
       "p_id": 5,
       "p_title": "Sad",
-      "p_cover": "./album-img/sad.jpg"
+      "p_cover": "https://riyafadadu04.github.io/musicApi/album-img/sad.jpg"
     },
     {
       "p_id": 6,
       "p_title": "Romantic",
-      "p_cover" : "./album-img/romantic.jpg"
+      "p_cover" : "https://riyafadadu04.github.io/musicApi/album-img/romantic.jpg"
     }
   ]
 }
