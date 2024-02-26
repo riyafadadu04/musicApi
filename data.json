@@ -313,7 +313,7 @@
     {
       "p_id": 5,
       "p_title": "Sad",
-      "p_cover": "https://i.ytimg.com/vi/rYSMgpsQSVY/hqdefault.jpg"
+      "p_cover": "./album-img/sad.jpg"
     },
     {
       "p_id": 6,
