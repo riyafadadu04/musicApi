@@ -1,0 +1,324 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Shape of You",
+      "type": "Hollywood",
+      "audio_url": "https://example.com/shape_of_you.mp3",
+      "cover_img": "https://example.com/shape_of_you_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Ed Sheeran",
+          "artist_img": "https://example.com/ed_sheeran.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tum Hi Ho",
+      "type": "Bollywood",
+      "audio_url": "https://example.com/tum_hi_ho.mp3",
+      "cover_img": "https://example.com/tum_hi_ho_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Arijit Singh",
+          "artist_img": "https://example.com/arijit_singh.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Dynamite",
+      "type": "K-Pop",
+      "audio_url": "https://example.com/dynamite.mp3",
+      "cover_img": "https://example.com/dynamite_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "BTS",
+          "artist_img": "https://example.com/bts.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Uptown Funk",
+      "type": "Hollywood",
+      "audio_url": "https://example.com/uptown_funk.mp3",
+      "cover_img": "https://example.com/uptown_funk_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Mark Ronson",
+          "artist_img": "https://example.com/mark_ronson.jpg"
+        },
+        {
+          "artist_name": "Bruno Mars",
+          "artist_img": "https://example.com/bruno_mars.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kabira",
+      "type": "Bollywood",
+      "audio_url": "https://example.com/kabira.mp3",
+      "cover_img": "https://example.com/kabira_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Tochi Raina",
+          "artist_img": "https://example.com/tochi_raina.jpg"
+        },
+        {
+          "artist_name": "Rekha Bhardwaj",
+          "artist_img": "https://example.com/rekha_bhardwaj.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Dope",
+      "type": "K-Pop",
+      "audio_url": "https://example.com/dope.mp3",
+      "cover_img": "https://example.com/dope_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "BTS",
+          "artist_img": "https://example.com/bts.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Uptown Funk",
+      "type": "Hollywood",
+      "audio_url": "https://example.com/uptown_funk.mp3",
+      "cover_img": "https://example.com/uptown_funk_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Mark Ronson",
+          "artist_img": "https://example.com/mark_ronson.jpg"
+        },
+        {
+          "artist_name": "Bruno Mars",
+          "artist_img": "https://example.com/bruno_mars.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Kabira",
+      "type": "Bollywood",
+      "audio_url": "https://example.com/kabira.mp3",
+      "cover_img": "https://example.com/kabira_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Tochi Raina",
+          "artist_img": "https://example.com/tochi_raina.jpg"
+        },
+        {
+          "artist_name": "Rekha Bhardwaj",
+          "artist_img": "https://example.com/rekha_bhardwaj.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Dope",
+      "type": "K-Pop",
+      "audio_url": "https://example.com/dope.mp3",
+      "cover_img": "https://example.com/dope_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "BTS",
+          "artist_img": "https://example.com/bts.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Stairway to Heaven",
+      "type": "Hollywood",
+      "audio_url": "https://example.com/stairway_to_heaven.mp3",
+      "cover_img": "https://example.com/stairway_to_heaven_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Led Zeppelin",
+          "artist_img": "https://example.com/led_zeppelin.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Bohemian Rhapsody",
+      "type": "Hollywood",
+      "audio_url": "https://example.com/bohemian_rhapsody.mp3",
+      "cover_img": "https://example.com/bohemian_rhapsody_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Queen",
+          "artist_img": "https://example.com/queen.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Tera Ban Jaunga",
+      "type": "Bollywood",
+      "audio_url": "https://example.com/tera_ban_jaunga.mp3",
+      "cover_img": "https://example.com/tera_ban_jaunga_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Akhil Sachdeva",
+          "artist_img": "https://example.com/akhil_sachdeva.jpg"
+        },
+        {
+          "artist_name": "Tulsi Kumar",
+          "artist_img": "https://example.com/tulsi_kumar.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "MIC Drop",
+      "type": "K-Pop",
+      "audio_url": "https://example.com/mic_drop.mp3",
+      "cover_img": "https://example.com/mic_drop_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "BTS",
+          "artist_img": "https://example.com/bts.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Smooth Criminal",
+      "type": "Hollywood",
+      "audio_url": "https://example.com/smooth_criminal.mp3",
+      "cover_img": "https://example.com/smooth_criminal_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Michael Jackson",
+          "artist_img": "https://example.com/michael_jackson.jpg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Tere Bina",
+      "type": "Bollywood",
+      "audio_url": "https://example.com/tere_bina.mp3",
+      "cover_img": "https://example.com/tere_bina_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "A.R. Rahman",
+          "artist_img": "https://example.com/ar_rahman.jpg"
+        },
+        {
+          "artist_name": "Chinmayi",
+          "artist_img": "https://example.com/chinmayi.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Dionysus",
+      "type": "K-Pop",
+      "audio_url": "https://example.com/dionysus.mp3",
+      "cover_img": "https://example.com/dionysus_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "BTS",
+          "artist_img": "https://example.com/bts.jpg"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Spring Day",
+      "type": "K-Pop",
+      "audio_url": "https://example.com/spring_day.mp3",
+      "cover_img": "https://example.com/spring_day_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "BTS",
+          "artist_img": "https://example.com/bts.jpg"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Kal Ho Naa Ho",
+      "type": "Bollywood",
+      "audio_url": "https://example.com/kal_ho_naa_ho.mp3",
+      "cover_img": "https://example.com/kal_ho_naa_ho_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Sonu Nigam",
+          "artist_img": "https://example.com/sonu_nigam.jpg"
+        },
+        {
+          "artist_name": "Alka Yagnik",
+          "artist_img": "https://example.com/alka_yagnik.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Boy With Luv",
+      "type": "K-Pop",
+      "audio_url": "https://example.com/boy_with_luv.mp3",
+      "cover_img": "https://example.com/boy_with_luv_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "BTS",
+          "artist_img": "https://example.com/bts.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Boogie Wonderland",
+      "type": "Hollywood",
+      "audio_url": "https://example.com/boogie_wonderland.mp3",
+      "cover_img": "https://example.com/boogie_wonderland_cover.jpg",
+      "artists": [
+        {
+          "artist_name": "Earth, Wind & Fire",
+          "artist_img": "https://example.com/earth_wind_fire.jpg"
+        }
+      ]
+    }
+  ],
+  "playlist": [
+    {
+      "p_id": 1,
+      "p_title": "Bollywood",
+      "p_cover": "https://yt3.googleusercontent.com/4EbTq1Ai-Xo045AkABt0u0gJRupC0UArbTu5DLsBUkldp_EZYdXNPwVoivN4sOZTjcMyC2oLyqE=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "p_id": 2,
+      "p_title": "Hollywood",
+      "p_cover": "https://i.ebayimg.com/images/g/ddsAAOSwT0hlIvWh/s-l1200.webp"
+    },
+    {
+      "p_id": 3,
+      "p_title": "K-Pop",
+      "p_cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5hsBDwQiem3iUlChjccYlyKrdIpn_YkrFvg&usqp=CAU"
+    },
+    {
+      "p_id": 4,
+      "p_title": "90's",
+      "p_cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKjAlQun0YTBPP94aSL5u1sAAs6Y8fqpJqw&usqp=CAU"
+    },
+    {
+      "p_id": 5,
+      "p_title": "Sad",
+      "p_cover": "https://i.ytimg.com/vi/rYSMgpsQSVY/hqdefault.jpg"
+    },
+    {
+      "p_id": 6,
+      "p_title": "Romantic",
+      "p_cover" : "https://i.scdn.co/image/ab67616d00001e02808ad328857b077d51ece92a"
+    }
+  ]
+}
