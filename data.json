@@ -4,8 +4,12 @@
       "id": 1,
       "title": "Shape of You",
       "type": "Hollywood",
-      "audio_url": "https://riyafadadu04.github.io/musicApi/audio/shape_of_you.mp3",
-      "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/shape_of_you_cover.jpg",
+      "album" :[
+        {
+          "audio_url": "https://riyafadadu04.github.io/musicApi/audio/shape_of_you.mp3",
+          "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/shape_of_you_cover.jpg",
+        }
+      ],
       "artists": [
         {
           "artist_name": "Ed Sheeran",
@@ -17,8 +21,12 @@
       "id": 2,
       "title": "Tum Hi Ho",
       "type": "Bollywood",
+      "album" :[
+        {
       "audio_url": "https://riyafadadu04.github.io/musicApi/audio/tum_hi_ho.mp3",
       "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/tum_hi_ho_cover.jpg",
+        }
+      ],
       "artists": [
         {
           "artist_name": "Arijit Singh",
@@ -30,8 +38,12 @@
       "id": 3,
       "title": "Dynamite",
       "type": "K-Pop",
+      "album" :[
+        {
       "audio_url": "https://riyafadadu04.github.io/musicApi/audio/dynamite.mp3",
       "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/dynamite_cover.jpg",
+        }
+      ],
       "artists": [
         {
           "artist_name": "BTS",
@@ -43,8 +55,13 @@
       "id": 4,
       "title": "Uptown Funk",
       "type": "Hollywood",
+      "album" :[
+        {
       "audio_url": "https://riyafadadu04.github.io/musicApi/audio/uptown_funk.mp3",
       "cover_img": "https://riyafadadu04.github.io/musicApi/song-img/uptown_funk_cover.jpg",
+        }
+      ],
+
       "artists": [
         {
           "artist_name": "Mark Ronson",
