@@ -68,7 +68,7 @@
     {
       "id": 6,
       "title": "Asal Mein",
-      "type": "Pop",
+      "type": "Bollywood",
       "album": {
         "audio_url": "https://example.com/musicApi/audio/asal_mein.mp3",
         "coverImg": "https://example.com/musicApi/song-img/asal_mein_cover.jpg"
@@ -107,7 +107,7 @@
     {
       "id": 9,
       "title": "Mahiye Jinna Sohna",
-      "type": "Pop",
+      "type": "Bollywood",
       "album": {
         "audio_url": "https://example.com/musicApi/audio/mahiye_jinna_sohna.mp3",
         "coverImg": "https://example.com/musicApi/song-img/mahiye_jinna_sohna_cover.jpg"
