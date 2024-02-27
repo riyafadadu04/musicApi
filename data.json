@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Love Me Like You Do",
-      "type": "Electropop",
+      "type": "Hollywood",
       "album": {
         "audio_url": "https://example.com/musicApi/audio/love_me_like_you_do.mp3",
         "coverImg": "https://example.com/musicApi/song-img/love_me_like_you_do_cover.jpg"
