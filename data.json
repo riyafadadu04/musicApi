@@ -298,6 +298,19 @@
         "artist_name": "Earth, Wind & Fire",
         "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/earth_wind_fire.jpg"
       }
+    },
+    {
+      "id": 24,
+      "title": "Kya bat ay",
+      "type": "Panjabi",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/Kya_Baat_Ay.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/Kya_Baat_Ay_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Harrdy sandhu",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/harrdy_sandhu.jpg"
+      }
     }
   ],
   "playlist": [
