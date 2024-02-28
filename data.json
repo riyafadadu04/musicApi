@@ -3,14 +3,14 @@
     {
       "id": 1,
       "title": "Love Me Like You Do",
-      "type": "Hollywood",
+      "type": "Electropop",
       "album": {
-        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/love_me_like_you_do.mp3",
-        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/love_me_like_you_do_cover.jpg"
+        "audio_url": "https://example.com/musicApi/audio/love_me_like_you_do.mp3",
+        "coverImg": "https://example.com/musicApi/song-img/love_me_like_you_do_cover.jpg"
       },
       "artists": {
         "artist_name": "Ellie Goulding",
-        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/ellie_goulding.jpg"
+        "artist_img": "https://example.com/musicApi/album-img/ellie_goulding.jpg"
       }
     },    
     {
@@ -68,14 +68,14 @@
     {
       "id": 6,
       "title": "Asal Mein",
-      "type": "Bollywood",
+      "type": "Pop",
       "album": {
-        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/asal_mein.mp3",
-        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/asal_mein_cover.jpg"
+        "audio_url": "https://example.com/musicApi/audio/asal_mein.mp3",
+        "coverImg": "https://example.com/musicApi/song-img/asal_mein_cover.jpg"
       },
       "artists": {
         "artist_name": "Darshan Raval",
-        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/darshan_raval.jpg"
+        "artist_img": "https://example.com/musicApi/album-img/darshan_raval.jpg"
       }
     },
     {
@@ -107,14 +107,14 @@
     {
       "id": 9,
       "title": "Mahiye Jinna Sohna",
-      "type": "Bollywood",
+      "type": "Pop",
       "album": {
-        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/mahiye_jinna_sohna.mp3",
-        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/mahiye_jinna_sohna_cover.jpg"
+        "audio_url": "https://example.com/musicApi/audio/mahiye_jinna_sohna.mp3",
+        "coverImg": "https://example.com/musicApi/song-img/mahiye_jinna_sohna_cover.jpg"
       },
       "artists": {
         "artist_name": "Darshan Raval",
-        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/darshan_raval.jpg"
+        "artist_img": "https://example.com/musicApi/album-img/darshan_raval.jpg"
       }
     },
     {
@@ -310,6 +310,292 @@
       "artists": {
         "artist_name": "Harrdy sandhu",
         "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/harrdy_sandhu.jpg"
+      }
+    },
+    {
+      "id": 25,
+      "title": "Lagadi lahor di",
+      "type": "Panjabi",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/lagadi_lahor_di.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/lagadi_lahor_di_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Guru Randhawa",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/guru.jpg"
+      }
+    },
+    {
+      "id": 26,
+      "title": "Suit",
+      "type": "Panjabi",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/suit.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/suit_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Guru Randhawa",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/guru.jpg"
+      }
+    },
+    {
+      "id": 27,
+      "title": "Mere wala sardar",
+      "type": "Panjabi",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/Mere_vala_saradr.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/Mere_vala_saradr_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Jugraj sandhu",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/jugraj_sandhu.jpg"
+      }
+    },
+    {
+      "id": 28,
+      "title": "Dheere dheere",
+      "type": "Bollywood",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/dheere_dheere.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/dheere_dheere_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Yo Yo Honey",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/yoyo.jpg"
+      }
+    },
+    {
+      "id": 29,
+      "title": "Photo",
+      "type": "Bollywood",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/photo.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/photo_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Karan Sehmbi",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/Karan_Sehmbi.jpg"
+      }
+    },
+    {
+      "id": 30,
+      "title": "Ishq Tere",
+      "type": "Panjabi",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/ishq_tera.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/ishq_tera_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Guru Randhawa",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/guru.jpg"
+      }
+    },
+    {
+      "id": 31,
+      "title": "Radha ne Shyam Madi jase",
+      "type": "Gujarati",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/radha_ne_syam.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/radha_ne_syam_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Sachin & Jigar ",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/sachin_jigar.jpg"
+      }
+    },
+    {
+      "id": 32,
+      "title": "saibo",
+      "type": "Gujarati",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/saibo.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/saibo_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Sachin Jigar ",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/sachin_jigar.jpg"
+      }
+    },
+    {
+      "id": 33,
+      "title": "Kano Dwarika vado",
+      "type": "Devotation",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/Kano.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/Kano_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Rajesh Ahir",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/rajesh_ahir.jpg"
+      }
+    },
+    {
+      "id": 34,
+      "title": "Hal kana mane dwarika dekhad",
+      "type": "Devotation",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/hal_kana.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/hal_kana_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Jigardan Gadhvi",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/jigardan.jpg"
+      }
+    },
+    {
+      "id": 35,
+      "title": "lagyo prityu no rang",
+      "type": "Gujarati",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/lagyo_rang.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/lagyo_rang_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Umesh barot",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/umesh_barot.jpg"
+      }
+    },
+    {
+      "id": 36,
+      "title": "Pa Pa Pagali",
+      "type": "Gujarati",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/pagali.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/pagali_cover.jpg"
+      },
+      "artists": { 
+        "artist_name": "Sonu Nigam",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/sonu_nigam.jpg"
+      }
+    },
+    {
+      "id": 37,
+      "title": "Ram Siya Ram",
+      "type": "Devotation",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/ram_siya_ram.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/ram_siya_ram_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Sachet Tandon",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/sachet.jpg"
+      }
+    },
+    {
+      "id": 38,
+      "title": "Namo Namo",
+      "type": "Devotation",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/namo.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/namo_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Amit Trevedi",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/amit_trevedi.jpg"
+      }
+    },
+    {
+      "id": 39,
+      "title": "Dhun Lagi",
+      "type": "Gujarati",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/dhun_lagi.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/dhun_lagi_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Sachin Jigar ",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/sachin_jigar.jpg"
+      }
+    },
+    {
+      "id": 40,
+      "title": "Vhalam avo ne",
+      "type": "Gujarati",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/valam.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/valam_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Sachin Jigar ",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/album-img/sachin_jigar.jpg"
+      }
+    },
+    {
+      "id": 41,
+      "title": "Doremon",
+      "type": "Cartoon",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/doremon.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/doremon_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Doremon - Title song",
+        "artist_img":"https://riyafadadu04.github.io/musicApi/song-img/doremon_cover.jpg"
+      }
+    },
+    {
+      "id": 42,
+      "title": "Shinchan",
+      "type": "Cartoon",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/shinchan.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/shinchan_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Shinchan - Title song",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/song-img/shinchan_cover.jpg"
+      }
+    },
+    {
+      "id": 43,
+      "title": "Chota bhim",
+      "type": "Cartoon",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/chotabhim.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/chotabhim_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "chota bhim - Title song",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/song-img/chotabhim_cover.jpg"
+      }
+    },
+    {
+      "id": 44,
+      "title": "Aasman ko chukar",
+      "type": "Cartoon",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/aasman_ko.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/aasman_ko_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Hanuman - Title song",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/song-img/aasman_ko_cover.jpg"
+      }
+    },
+    {
+      "id": 45,
+      "title": "Motu patlu",
+      "type": "Cartoon",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/Motu_patalu.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/Motu_patalu_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Motu Patalu- Title song",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/song-img/Motu_patalu_cover.jpg"
+      }
+    },
+    {
+      "id": 46,
+      "title": "Main hu GhatothKach",
+      "type": "Cartoon",
+      "album": {
+        "audio_url": "https://riyafadadu04.github.io/musicApi/audio/ghatothkach.m4a",
+        "coverImg": "https://riyafadadu04.github.io/musicApi/song-img/ghatothkach_cover.jpg"
+      },
+      "artists": {
+        "artist_name": "Ghatothkach - Title song",
+        "artist_img": "https://riyafadadu04.github.io/musicApi/song-img/ghatothkach_cover.jpg"
       }
     }
   ],
